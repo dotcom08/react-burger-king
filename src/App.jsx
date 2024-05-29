@@ -15,7 +15,7 @@ const App = () => {
     Aos.init();
   },[])
   return (
-    <div className=" overflow-x-hidden">
+    <div className=" overflow-hidden">
       <Navbar/>
       <Hero/>
       <Services/>
